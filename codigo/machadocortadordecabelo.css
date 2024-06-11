@@ -1,32 +1,33 @@
-    #recorte{
+		#recorte{
       
       
-    }
-    #Nasa{
+		}
+		#Nasa{
 	    
-	display: flex;
-	background-color: #f5f4ce;
-	box-shadow: 7px 7px 9px 0px black;
-	font-weight: bold;
-	font-size: 20px;
-	text-align: center; 
-	justify-content: center;
-	pading: 2px;
+			display: flex;
+			background-color: #f5f4ce;
+			box-shadow: 7px 7px 9px 0px black;
+			font-weight: bold;
+			font-size: 20px;
+			text-align: center; 
+			justify-content: center;
+			pading: 2px;
+		        
+		}
+		.nome{
+			
+		}
+
+
+
+
+
+
+
+		#pezin{
+
+		    	background-color: sky blue;
+			width: 100%;
+        		color: white;
         
-    }
-
-
-
-
-
-
-
-
-
-    #pezin{
-
-    	background-color: sky blue;
-		width: 100%;
-        color: white;
-        
-    }
+		}
