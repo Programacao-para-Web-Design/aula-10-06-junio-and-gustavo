@@ -2,6 +2,13 @@
       
       
 		}
+
+		.Aula{
+			font-size: 16px;
+			text-align: center;
+			font-weight: bold;
+		}
+
 		#Nasa{
 	    
 			display: flex;
@@ -14,15 +21,10 @@
 			pading: 2px;
 		        
 		}
+
 		.nome{
 			
 		}
-
-
-
-
-
-
 
 		#pezin{
 
