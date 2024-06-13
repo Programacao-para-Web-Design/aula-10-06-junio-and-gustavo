@@ -44,16 +44,18 @@
 		#Progwebparwebdesign{
 
 			background-color: blue;
+			text-align: center; 
 			
 		}
 		#Desenvdegames{
 
 			background-color: pink;  
-			position: absolute;
+			text-align: center; 
 			
 		}
 		#Analprogdesis{
 			background-color: red;
+			text-align: center; 
 		}
 
 		#Nasa{
