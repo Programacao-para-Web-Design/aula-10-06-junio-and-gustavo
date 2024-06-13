@@ -32,9 +32,6 @@
 			text-align: center;
 			font-weight: bold;
 		}
-		img{
-			background-color: white;
-		}
 		.materia{
 
 			font-size: 16px;
@@ -66,7 +63,7 @@
 		}
 		#Desenvdegames{
 
-			background-color: pink;  
+			background-color: yellow;  
 			justify-content: center;
 			align-items: center;
 			text-align: center;
