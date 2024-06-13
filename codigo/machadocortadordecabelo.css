@@ -10,6 +10,13 @@
 			font-style: italic;
 			
 		}
+		main{
+
+			max-width: 75%;
+			text-align: center; 
+			justify-content: center;
+						
+		}
 
 		.Aula{
 			font-size: 16px;
@@ -18,6 +25,13 @@
 		}
 		img{
 			background-color: white;
+		}
+		.materia{
+
+			font-size: 16px;
+			text-align: center;
+			font-weight: bold;
+			
 		}
 
 		header{
