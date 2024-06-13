@@ -9,6 +9,13 @@
 			font-weight: bold;
 		}
 
+		header{
+			justify-content: center;
+			align-items: center;
+			text-align: center;
+			pading: 2px;
+		}
+
 		#Progwebparwebdesign{
 
 			background-color: #ffa98c;
