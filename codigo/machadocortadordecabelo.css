@@ -6,11 +6,24 @@
 			font-style: italic;
 			
 		}
+		#ceemti{
+
+			background: -webkit-gradient(linear, left top, right top, from(#bac4eb), to(#0733d6)) no-repeat;
+            		background: -moz-linear-gradient(left, #505569, #031c7a);
+            		filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=1, StartColorStr='#bac4eb', EndColorStr='#0733d6');            
+			justify-content: center;
+			align-items: center;
+			text-align: center;
+			pading: 2px;
+			
+		}
 		main{
 
 			max-width: 75%;
-			text-align: center; 
 			justify-content: center;
+			align-items: center;
+			text-align: center;
+			pading: 2px;
 						
 		}
 
@@ -43,8 +56,10 @@
 		#Progwebparwebdesign{
 
 			background-color: #ffc2ea;
-			text-align: center; 
 			justify-content: center;
+			align-items: center;
+			text-align: center;
+			pading: 2px;
 			margin: 0 auto;
 			
 			
@@ -52,16 +67,20 @@
 		#Desenvdegames{
 
 			background-color: pink;  
-			text-align: center; 
 			justify-content: center;
+			align-items: center;
+			text-align: center;
+			pading: 2px;
 			margin: 0 auto;
 			
 		}
 		#Analprogdesis{
 			
 			background-color: red;
-			text-align: center; 
 			justify-content: center;
+			align-items: center;
+			text-align: center;
+			pading: 2px;
 			margin: 0 auto;
 			
 		}
